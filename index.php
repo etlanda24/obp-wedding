@@ -41,7 +41,7 @@
 <div class="ww-home-page" id="home">
   <div class="ww-wedding-announcement d-flex align-items-center justify-content-start">
     <div class="container ww-announcement-container">
-      <p class="ww-couple-name ww-title" data-aos="zoom-in-down" data-aos-delay="300" data-aos-duration="1000">Raymond & Susan</p><img class="img-fluid mt-1" src="images/laurel-1.png" alt="Heart" data-aos="zoom-in-down" data-aos-delay="300" data-aos-duration="1000"/>
+      <p class="ww-couple-name ww-title" data-aos="zoom-in-down" data-aos-delay="300" data-aos-duration="1000">Ucok & Budi</p><img class="img-fluid mt-1" src="images/laurel-1.png" alt="Heart" data-aos="zoom-in-down" data-aos-delay="300" data-aos-duration="1000"/>
       <p class="h2 mt-5 ww-title" data-aos="zoom-in-down" data-aos-delay="300" data-aos-duration="1000" data-aos-offset="10">20<sup>th</sup> December, 2018</p>
     </div>
   </div>
